@@ -1,4 +1,4 @@
-# Open Source Saturday Italia
+# Open Source Saturday Italy
 [![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
 
 - Hai un progetto Open Source sul quale vorresti lavorare con altri?
@@ -67,9 +67,9 @@ progetto tuffarvi? Niente paura, potete trovarlo grazie alle seguenti risorse:
 # Cosa fare durante il resto della settimana?
 Anche fuori dall'orario dell'evento principale unisciti al canale per vedere se trovi qualcuno con cui programmare :)
 
-# Supporta Oss Italia
+# Supporta Oss Italy
 Se vuoi far sapere che il codice che hai scritto è stato scritto durante l'Open
-Source Saturday Italia, puoi includere il nostro badge nella tua pull request:
+Source Saturday Italy, puoi includere il nostro badge nella tua pull request:
 ```
 [![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
 ```
