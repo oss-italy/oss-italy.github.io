@@ -62,6 +62,9 @@ progetto tuffarvi? Niente paura, potete trovarlo grazie alle seguenti risorse:
   progetti OS ma è più ricco di progetti meno conosciuti e che contengono issue
   marcate con "Help Wanted"
 
+# Cosa fare durante il resto della settimana?
+Anche fuori dall'orario dell'evento principale unisciti al canale per vedere se trovi qualcuno con cui programmare :)
+
 # Supporta Oss Italia
 Se vuoi far sapere che il codice che hai scritto è stato scritto durante l'Open
 Source Saturday Italia, puoi includere il nostro badge nella tua pull request:
