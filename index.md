@@ -87,7 +87,7 @@ poter effettuare lo spostamento su un'altra piattaforma se ce ne sarà bisogno.
 
 # OSS locali
 Open Source Saturday che si svolgono sul territorio nazionale:
-- [Milano](https://www.meetup.com/Open-Source-Saturday-Milano/pages/14122902/FAQ/)
+- [Milano](https://www.meetup.com/Open-Source-Saturday-Milano/)
 
 # Credits
 Un grande grazie
