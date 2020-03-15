@@ -85,9 +85,13 @@ questo sito (TODO).
 Lo scopo è quello di non diventare troppo dipendenti da discord, in modo da
 poter effettuare lo spostamento su un'altra piattaforma se ce ne sarà bisogno.
 
+# OSS locali
+Open Source Saturday che si svolgono sul territorio nazionale:
+- [Milano](https://www.meetup.com/Open-Source-Saturday-Milano/pages/14122902/FAQ/)
+
 # Credits
 Un grande grazie
-all'[oss-milano](https://www.meetup.com/Open-Source-Saturday-Milano/pages/14122902/FAQ/)
+all'[oss-milano](https://www.meetup.com/Open-Source-Saturday-Milano/)
 per l'idea e scusate per i copia-incolla aggressivi dalla vostra pagina :)
 
 OSS-Italy icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
