@@ -65,7 +65,7 @@ progetto tuffarvi? Niente paura, potete trovarlo grazie alle seguenti risorse:
   marcate con "Help Wanted"
 
 # Cosa fare durante il resto della settimana?
-Anche fuori dall'orario dell'evento principale unisciti al canale per vedere se trovi qualcuno con cui programmare :)
+Anche fuori dall'orario dell'evento principale unisciti alla chat per vedere se trovi qualcuno con cui programmare :)
 
 # Supporta OSS Italy
 Se vuoi far sapere che il codice che hai scritto è stato scritto durante l'Open
@@ -79,11 +79,11 @@ Sappiamo che Discord non è open source, ma al momento abbiamo deciso di
 utilizzare questa piattaforma perché ci sembra la più funzionale.
 
 Cercheremo di tenere le discussioni importanti mediante issue di github e di
-tenere traccia dello storico delle pull request fatte durante i vari eventi sul
-sito (TODO).
+tenere traccia dello storico delle pull request fatte durante i vari eventi su
+questo sito (TODO).
 
 Lo scopo è quello di non diventare troppo dipendenti da discord, in modo da
-effettuare lo spostamento ad un'altra piattaforma se ce ne sarà bisogno.
+poter effettuare lo spostamento su un'altra piattaforma se ce ne sarà bisogno.
 
 # Credits
 Un grande grazie
