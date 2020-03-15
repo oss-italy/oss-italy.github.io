@@ -90,4 +90,4 @@ Un grande grazie
 all'[oss-milano](https://www.meetup.com/Open-Source-Saturday-Milano/pages/14122902/FAQ/)
 per l'idea e scusate per i copia-incolla aggressivi dalla vostra pagina :)
 
-Discord server icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+OSS-Italy icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
