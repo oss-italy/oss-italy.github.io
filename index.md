@@ -8,7 +8,7 @@
   banale per poterti scambiare i segreti del mestiere?
 - Hai qualche sabato libero?
 
-Incontriamoci online su discord per contribuire insieme al codice open source! 🚀
+Incontriamoci online su discord ogni sabato per contribuire insieme al codice open source! 🚀
 
 [![Discord](https://discordapp.com/api/guilds/688392679892975619/widget.png?style=banner3)](https://discord.gg/TpEa5Wn)
 
