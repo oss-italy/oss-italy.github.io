@@ -89,6 +89,10 @@ poter effettuare lo spostamento su un'altra piattaforma se ce ne sarà bisogno.
 Open Source Saturday che si svolgono sul territorio nazionale:
 - [Milano](https://www.meetup.com/Open-Source-Saturday-Milano/)
 
+# Vuoi darci una mano?
+[Questa](https://github.com/oss-italy) è la nostra organizzazione di GitHub.
+Puoi risolvere issue o aprirne di nuovi con suggerimenti e proposte.
+
 # Credits
 Un grande grazie
 all'[oss-milano](https://www.meetup.com/Open-Source-Saturday-Milano/)
