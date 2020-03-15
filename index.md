@@ -67,7 +67,7 @@ progetto tuffarvi? Niente paura, potete trovarlo grazie alle seguenti risorse:
 # Cosa fare durante il resto della settimana?
 Anche fuori dall'orario dell'evento principale unisciti al canale per vedere se trovi qualcuno con cui programmare :)
 
-# Supporta Oss Italy
+# Supporta OSS Italy
 Se vuoi far sapere che il codice che hai scritto è stato scritto durante l'Open
 Source Saturday Italy, puoi includere il nostro badge nella tua pull request:
 ```
@@ -75,7 +75,15 @@ Source Saturday Italy, puoi includere il nostro badge nella tua pull request:
 ```
 
 # Scelta della piattaforma
-Discord non è una scelta definitiva, siamo all'inizio e stiamo ancora sperimentando.
+Sappiamo che Discord non è open source, ma al momento abbiamo deciso di
+utilizzare questa piattaforma perché ci sembra la più funzionale.
+
+Cercheremo di tenere le discussioni importanti mediante issue di github e di
+tenere traccia dello storico delle pull request fatte durante i vari eventi sul
+sito (TODO).
+
+Lo scopo è quello di non diventare troppo dipendenti da discord, in modo da
+effettuare lo spostamento ad un'altra piattaforma se ce ne sarà bisogno.
 
 # Credits
 Un grande grazie
