@@ -17,13 +17,13 @@ giornata con una [Licenza Libera](https://opensource.org/licenses). 🌈
 
 # Programma
 
--  *9:45 - 10:00* ~ Ci connettiamo online, aka "Ciao, si sente?", "Io ti sento, tu?"
-- *10:00 - 10:30* ~ Spiegazione formato e Pitch dei progetti
-- *10:30 - 13:00* ~ Coding ed hacking
-- *13:00 - 14:00* ~ Pausa Pranzo
-- *14:00 - 14:30* ~ Breve aggiornamento collettivo sulla mattinata
-- *14:30 - 17:30* ~ Coding ed hacking
-- *17:30 - 18:00* ~ Revisione collettiva del lavoro fatto
+| *09:45 - 10:00* | Ci connettiamo online, aka "Ciao, si sente?", "Io ti sento, tu?" |
+| *10:00 - 10:30* | Spiegazione formato e Pitch dei progetti                         |
+| *10:30 - 13:00* | Coding ed hacking                                                |
+| *13:00 - 14:00* | Pausa Pranzo                                                     |
+| *14:00 - 14:30* | Breve aggiornamento collettivo sulla mattinata                   |
+| *14:30 - 17:30* | Coding ed hacking                                                |
+| *17:30 - 18:00* | Revisione collettiva del lavoro fatto                            |
 
 # FAQ
 
