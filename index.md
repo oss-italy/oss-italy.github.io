@@ -1,4 +1,3 @@
-# Open Source Saturday Italy
 [![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
 
 - Hai un progetto Open Source sul quale vorresti lavorare con altri?
