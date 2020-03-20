@@ -1,2 +1,11 @@
 title: [Open Source Saturday Italy]
 description: [Ogni sabato contribuiamo insieme al codice open source]
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/oss-italy/oss-italy.github.io"
