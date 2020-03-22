@@ -73,7 +73,11 @@ Source Saturday Italy, puoi includere il nostro badge nella tua pull request:
 [![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
 ```
 
-# Scelta della piattaforma
+# Discord
+Consigliamo di installare la versione client di discord per evitare problemi
+audio/video. Abbiamo visto che funziona meglio della versione browser.
+
+## Scelta della piattaforma
 Sappiamo che Discord non è open source, ma al momento abbiamo deciso di
 utilizzare questa piattaforma perché ci sembra la più funzionale.
 
