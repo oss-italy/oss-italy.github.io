@@ -3,3 +3,17 @@
 
 
 Repository del sito di Open Source Saturday Italy. https://oss-italy.github.io/
+
+# Build locale
+Per fare una build locale del sito:
+
+* installa ruby
+* Installa bundler con il comando `$ gem install bundler`
+* crea un file chiamato `Gemfile` nella root del sito con il seguente contenuto:
+  ```
+  source 'https://rubygems.org'
+  gem 'github-pages', group: :jekyll_plugins
+  ```
+* installa Jekyll e altre dipendenze con il comando `$ bundle install`
+* esegui il server localmente con `$ bundle exec jekyll serve`
+* apri l'indirizzo `http://localhost:4000` nel tuo browser
