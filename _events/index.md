@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Events
+# Eventi
 
 L'Open Source Saturday Italy si tiene **tutti** i sabati.
 Guarda a che progetti abbiamo contribuito negli eventi passati o mostra a cosa
