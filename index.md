@@ -7,12 +7,15 @@
   banale per poterti scambiare i segreti del mestiere?
 - Hai qualche sabato libero?
 
-Incontriamoci online su discord ogni sabato per contribuire insieme al codice open source! 🚀
+Incontriamoci online sabato su discord per contribuire insieme al codice open source! 🚀
 
 [![Discord](https://discordapp.com/api/guilds/688392679892975619/widget.png?style=banner3)](https://discord.gg/TpEa5Wn)
 
 L'unico vincolo è che qualunque cosa venga prodotta deve essere rilasciata entro la fine della
 giornata con una [Licenza Libera](https://opensource.org/licenses). 🌈
+
+L'evento si tiene tutti i sabati. Vai [qui](/events/) per vedere a cosa abbiamo
+lavorato durante gli eventi passati.
 
 # Programma
 
