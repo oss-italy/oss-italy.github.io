@@ -11,7 +11,7 @@ Incontriamoci online sabato su discord per contribuire insieme al codice open so
 
 [![Discord](https://discordapp.com/api/guilds/688392679892975619/widget.png?style=banner3)](https://discord.gg/TpEa5Wn)
 
-L'unico vincolo è che qualunque cosa venga prodotta deve essere rilasciata entro la fine della
+L'unico vincolo è che qualunque cosa venga prodotta deve essere rilasciata entro fine
 giornata con una [Licenza Libera](https://opensource.org/licenses). 🌈
 
 L'evento si tiene tutti i sabati. Vai [qui](/events/) per vedere a cosa abbiamo
