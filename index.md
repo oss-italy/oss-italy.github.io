@@ -56,6 +56,9 @@ lavorato durante gli eventi passati.
 - **Quanto devono essere grandi i gruppi di lavoro?** Dipende dal progetto e da
   come ci si riesce ad organizzare, più il gruppo è grande e più è difficile
   organizzarne il lavoro, nel dubbio partite da 2 o 3 persone.
+- **Non sono esperto e non ho mai contribuito all'open source. Come si fa?** Dai
+  un'occhiata su https://firstcontributions.github.io/ per iniziare e unisciti
+  all'evento in ogni caso, ti aiutiamo noi! 😀
 
 # Come trovare un progetto?
 Avete scelto con che linguaggio di programmazione lavorare ma non sapete su che
