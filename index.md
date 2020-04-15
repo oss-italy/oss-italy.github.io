@@ -1,5 +1,4 @@
-[![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
-[![Twitter](https://img.shields.io/twitter/follow/OssItaly?label=follow&style=social)](https://twitter.com/OssItaly)
+{% include badges.md %}
 
 - Hai un progetto Open Source sul quale vorresti lavorare con altri?
 - Avresti sempre voluto partecipare ad un progetto Open Source ma non l'hai mai
