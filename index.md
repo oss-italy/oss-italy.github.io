@@ -5,7 +5,7 @@
   fatto?
 - Vorresti lavorare in pair programming con altre persone su un progetto non
   banale per poterti scambiare i segreti del mestiere?
-- Hai qualche sabato libero?
+- Stai imparando un linguaggio di programmazione e vorresti esercitarti con qualcuno?
 
 Incontriamoci online sabato su discord per contribuire insieme al codice open source! 🚀
 
@@ -14,8 +14,9 @@ Incontriamoci online sabato su discord per contribuire insieme al codice open so
 L'unico vincolo è che qualunque cosa venga prodotta deve essere rilasciata entro fine
 giornata con una [Licenza Libera](https://opensource.org/licenses). 🌈
 
-L'evento si tiene tutti i sabati. Vai [qui](/events/) per vedere a cosa abbiamo
-lavorato durante gli eventi passati.
+L'evento si tiene tutti i sabati.
+Qualsiasi livello di esperienza è ben accetto, da principianti a esperti.
+Vai [qui](/events/) per vedere a cosa abbiamo lavorato durante gli eventi passati.
 
 # Programma
 
