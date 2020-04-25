@@ -20,31 +20,31 @@ Vai [qui](/events/) per vedere a cosa abbiamo lavorato durante gli eventi passat
 
 # Programma
 
-| *09:45 - 10:00* | Ci connettiamo online, aka "Ciao, si sente?", "Io ti sento, tu?" |
-| *10:00 - 10:30* | Spiegazione formato e Pitch dei progetti                         |
-| *10:30 - 13:00* | Coding ed hacking                                                |
-| *13:00 - 14:00* | Pausa Pranzo                                                     |
-| *14:00 - 14:30* | Breve aggiornamento collettivo sulla mattinata                   |
-| *14:30 - 17:30* | Coding ed hacking                                                |
-| *17:30 - 18:00* | Revisione collettiva del lavoro fatto                            |
+| *09:45 - 10:00* | Connessione online, aka "Mi sentite?", "Io ti sento, tu?" |
+| *10:00 - 10:30* | Spiegazione formato e raccolta proposte                   |
+| *10:30 - 13:00* | Coding ed hacking                                         |
+| *13:00 - 14:00* | Pausa Pranzo                                              |
+| *14:00 - 14:15* | Breve aggiornamento collettivo sulla mattinata            |
+| *14:15 - 16:45* | Coding ed hacking                                         |
+| *16:45 - 17:00* | Revisione collettiva del lavoro fatto                     |
 
 # FAQ
 
 - **Come si decidono i progetti su cui si lavorerà nel corso della giornata?**
-  All'inizio della giornata chi vuole ha a disposizione 3 minuti di tempo per
-  presentare una propria idea/progetto sul quale lavorare durante la giornata.
-  Alla fine delle presentazioni si fanno i gruppi, ognuno può decidere di
+  All'inizio della giornata chi vuole può presentare una propria idea/progetto
+  sul quale lavorare durante la giornata.
+  Alla fine delle proposte si formano i gruppi: ognuno può decidere di
   aggregarsi ad un progetto presentato oppure lavorare singolarmente su un
   proprio progetto, non è obbligatorio lavorare in coppia/gruppo anche se farlo
   è decisamente più divertente che farlo da soli.
 - **Chi propone di lavorare su un progetto deve essere un'esperto della
   materia?** Non obbligatoriamente, è lecito chiedere aiuto per una cosa che ci
-  piacerebbe realizzare ma per la quale non abbiamo le competenze necessarie, vi
-  chiedo solo di esplicitarlo quando fate la proposta in modo che le persone ne
+  piacerebbe realizzare ma per la quale non abbiamo le competenze necessarie,
+  basta esplicitarlo quando fate la proposta in modo che le persone ne
   siano consapevoli.
 - **Cosa dobbiamo installare sui nostri portatili?** Git e l'ambiente di
   sviluppo per il linguaggio con cui volete lavorare.
-- **Qualche esempio di pitch?**
+- **Qualche esempio di proposta?**
   - Sono il maintainer del progetto X, è sviluppato in Y, avrebbe bisogno di un
     po' di amore, in particolare servirebbe implementare la funzionalità A e
     fixare i bug H e K
@@ -80,6 +80,9 @@ Source Saturday Italy, puoi includere il nostro badge nella tua pull request:
 ```
 [![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)](https://oss-italy.github.io/)
 ```
+
+Inoltre condividi questo sito con colleghi e in giro per il web: più siamo,
+più condividiamo e più ci divertiamo!
 
 # Discord
 Consigliamo di installare la versione client di discord per evitare problemi
