@@ -1,0 +1,29 @@
+name: Create new event page
+on:
+  schedule:
+    # every Saturday at 21:30 UTC.
+    - cron:  '30 21 * * SAT'
+jobs:
+  create-page:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get current date
+        run: |
+          today=$(date +'%Y-%m-%d')
+          next_sat_snake=$(date +%Y_%m_%d -d "$today + 7 day")
+          next_sat_kebab=$(date +%Y-%m-%d -d "$today + 7 day")
+
+          # next event index is equal to the number of files in the _events dir
+          # considering index.md
+          event_idx=$(ls _events | wc -l)
+
+          header="---\nlayout: post\nevent_date: $next_sat_kebab 09:45:00\nevent_index: $event_idx\n---"
+          value=$(cat template.md)
+          file_content="$header\n$value"
+          file_name="_events/${next_sat_snake}.md"
+          echo -e "$file_content" > "$file_name"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Add event
+          file_pattern: "_events/*.md"
