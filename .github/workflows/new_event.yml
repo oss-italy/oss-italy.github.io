@@ -2,7 +2,7 @@ name: Create new event page
 on:
   schedule:
     # every Saturday at 21:30 UTC.
-    - cron:  '30 21 * * SAT'
+    - cron:  '59 21 * * SAT'
 jobs:
   create-page:
     runs-on: ubuntu-latest
@@ -19,7 +19,7 @@ jobs:
           event_idx=$(ls _events | wc -l)
 
           header="---\nlayout: post\nevent_date: $next_sat_kebab 09:45:00\nevent_index: $event_idx\n---"
-          value=$(cat template.md)
+          value=$(cat .github/workflows/event_template.md)
           file_content="$header\n$value"
           file_name="_events/${next_sat_snake}.md"
           echo -e "$file_content" > "$file_name"
