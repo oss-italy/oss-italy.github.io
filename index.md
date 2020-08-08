@@ -42,8 +42,9 @@ Vai [qui](/events/) per vedere a cosa abbiamo lavorato durante gli eventi passat
   piacerebbe realizzare ma per la quale non abbiamo le competenze necessarie,
   basta esplicitarlo quando fate la proposta in modo che le persone ne
   siano consapevoli.
-- **Cosa dobbiamo installare sui nostri portatili?** Git e l'ambiente di
-  sviluppo per il linguaggio con cui volete lavorare.
+- **Cosa dobbiamo installare?** Git e l'ambiente di sviluppo per il linguaggio
+  con cui volete lavorare. Avere già provato a buildare ed eseguire il progetto
+  a cui volete lavorare è molto apprezzato!
 - **Qualche esempio di proposta?**
   - Sono il maintainer del progetto X, è sviluppato in Y, avrebbe bisogno di un
     po' di amore, in particolare servirebbe implementare la funzionalità A e
