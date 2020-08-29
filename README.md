@@ -20,7 +20,7 @@ A questo punto puoi scegliere se usare docker o no:
 ## Docker
 * esegui il container [github-pages](https://github.com/Starefossen/docker-github-pages) con questo comando:
   ```
-  $ docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
+  docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
   ```
 * Apri l'indirizzo `http://localhost:4000` nel tuo browser
 
